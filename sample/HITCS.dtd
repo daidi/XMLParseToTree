@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding='UTF-8'?> 
+ 
+<!ELEMENT ComputerScience (faculty+)> 
+ 	<!ELEMENT faculty (facultyName,researchCenter+)> 
+		<!ELEMENT facultyName (#PCDATA)> 
+		<!ELEMENT researchCenter (centerName,professorList)> 
+			<!ELEMENT centerName (#PCDATA)> 
+			<!ELEMENT professorList (professor+)> 
+				<!ELEMENT professor (name,gender,supervisorDoctoral)> 
+					<!ELEMENT name (#PCDATA)> 
+					<!ELEMENT gender (#PCDATA)> 
+					<!ELEMENT supervisorDoctoral (#PCDATA)> 
