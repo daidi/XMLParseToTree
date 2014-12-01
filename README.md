@@ -9,7 +9,7 @@ This is a Java Project used to parse XML files ( and probably DTD files , which 
 ScreenShots/截图：
 
 1.Multiway Tree/多叉树
-![image](https://github.com/daidi/BiologicalDataAnalysis/raw/master/sample/img/mtree.png)
+![image](https://github.com/daidi/XMLParseToTree/raw/master/sample/img/mtree.png)
 
 2.Directory Tree/目录树
-![image](https://github.com/daidi/BiologicalDataAnalysis/raw/master/sample/img/dtree.png)
+![image](https://github.com/daidi/XMLParseToTree/raw/master/sample/img/dtree.png)
